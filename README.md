@@ -22,4 +22,4 @@ Model przetwarza surowy tekst recenzji: preprocessuje dane, stosuje TF-IDF do we
 
 **Pliki**:
 
-- [notebook.ipynb](sentiment_analysis_ML.ipynb) - Google Colab notebook
+- [sentiment_analysis_ML.ipynb](sentiment_analysis_ML.ipynb) - Google Colab notebook
